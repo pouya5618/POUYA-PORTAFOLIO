@@ -1,0 +1,330 @@
+*{
+    margin: 0;
+    padding: 0;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+
+body{
+    background: black;
+    font-family: 'Roboto', sans-serif;
+    font-size: 62,5%;
+}
+
+.wrapper{
+    margin: 25px auto;
+    width: 90%;
+    max-width: 1000px;
+    background: white;
+    border-radius: 50px;
+}
+
+/* .container{
+    display: flex;
+    align-content: center;
+} */
+
+
+
+.title{
+    margin:25px auto;
+    width: 80%;
+    border: 5px 50px;
+    background: black;
+    border-radius: 50px;
+    text-align: center;
+    /* display: inline-block; */
+    
+}
+ h1,h2{
+     color: white;
+     margin: 0;
+ }
+
+ h1{
+     font-size: 1.8rem;
+     font-weight: 700;
+     margin: 5px 0;
+ }
+ h2{
+     font-size: 1.2rem;
+     font-weight: 700;
+     margin: 5px 0;
+ }
+
+ .container-main{
+     display: flex;
+     justify-content: space-between;
+ }
+
+  .wrapper2{
+     width: 80%;
+     max-width: 800px;
+     align-items: center;
+ }
+
+ .contacto, .sobre-mi, .hobbies{
+    margin:25px auto;
+    width: 80%;
+    border: 5px 50px;
+    background: black;
+    border-radius: 50px;
+    text-align: center;
+    /* display: inline-block; */
+ }
+
+ .container-titles{
+     display: flex;
+    flex-direction: column;
+ }
+
+.my-photo{
+    /* display: block; */
+    border-radius:150px;
+    margin: 50px;
+    
+}
+
+.iconos{
+    /* display: block; */
+    display: flex;
+    justify-content: center;
+    align-content: space-around;
+}
+
+.iconos img{
+    border: black solid 1px;
+    border-radius: 100%;
+    margin: 0 5px;
+    width: 10%;
+}
+
+p{
+    font-size: 1rem;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*  
+img{
+    width: 5%;
+}
+
+
+body{
+    background: black;
+    font-family: 'Open Sans';
+    font-size: 62,5%;
+}
+
+.contenedor{
+    margin: 20px auto;
+    width: 90%;
+    max-width: 1000px;
+    background: white;
+    border-radius: 25px;
+}
+
+div .Diseñador-Grafico{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    
+}
+
+div .Diseñador-Grafico .title1{
+    background: black;
+    width: 80%;
+    border-radius: 50px;
+    margin: 25px auto;
+    padding: 10px 60px;
+    text-align: center;
+    
+}
+
+div .Diseñador-Grafico .title1 h1{
+    color: white;
+    margin: 0;
+    font-weight: bold;
+}
+
+div section .header-conteiner{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.header-conteiner .titlel2, .title3{
+    background: black;
+    width: 50%;
+    border-radius: 50px;
+    margin: 5px auto;
+    padding: 10px 60px;
+    text-align: center;
+    
+
+}
+
+h2 {
+    color: white;
+    margin: 0;
+    font-weight: bold;
+}
+
+
+section .title4{
+    background: black;
+    width: 50%;
+    border-radius: 50px;
+    margin: 5px auto;
+    padding: 10px 60px;
+    text-align: center;
+    
+
+}
+
+.conteiner-main{
+    display: flex;
+    justify-content: space-around;
+}
+ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* body{
+    background: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ 
+.wrapper{
+    margin: 20px auto;
+    width:90%;
+    max-width: 1000px;
+    background: white;
+    border-radius: 25px;
+}
+header{
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+section{
+    width: 70%;
+}
+
+main section .caja-sobre-mi{
+    text-align: center;
+    color: white;
+    padding: 20px 0;
+    background: black;
+    margin-bottom: 20px;
+    
+}
+
+h1{
+    color: white;
+    margin: 0 40px;
+}
+
+
+
+.caja-header{
+    margin-top: 20px;
+    padding: 10px 200px;
+    background: rgb(0, 0, 0);
+}
+
+.caja-contacto{
+    
+    padding: 10px 200px;
+    background: rgb(0, 0, 0);
+}
+
+
+.caja-sobre-mi{
+    
+    padding: 10px 200px;
+    background: rgb(0, 0, 0);
+}
+
+.caja-hobbies{
+    
+    padding: 10px 200px;
+    background: rgb(0, 0, 0);
+}
+
+
+.border-radius{
+    border-radius: 100px;
+}
+
+
+
+img{
+    width: 150px;
+    height: auto;
+    border-radius: 250%;
+} */
